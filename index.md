@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Séance 1
 
-You can use the [editor on GitHub](https://github.com/ipante/pi1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Notions HTML
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- élément
+- attribut
+- structure minimale
 
-### Markdown
+### Balises HTML
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- html, head, body
+- p, div, span
+- ul, ol, li
+- h1, h2, h3, h4, h5, h6
+- a (href), img (src), input (text, password, checkbox, button)
+- br, hr
 
-```markdown
-Syntax highlighted code block
+### Notions outils
 
-# Header 1
-## Header 2
-### Header 3
+- indentation
+- coloration syntaxique
+- complétion syntaxique
 
-- Bulleted
-- List
+### Outils
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ipante/pi1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Github (création d'un compte)
+- Codepen (création d'un compte)
+- Visual studio (installation)
+- Emmet
