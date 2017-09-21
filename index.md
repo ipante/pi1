@@ -1,4 +1,13 @@
-# Séance 1
+# Ressources
+
+- [Espace Moodle](http://moodle.unil.ch/course/view.php?id=8995)
+- [Liste d'exercices]( https://gist.github.com/GregoryThonney)
+
+======
+
+# Contenu des séances
+
+## Séance 1
 
 ### Notions HTML
 
@@ -27,3 +36,5 @@
 - Codepen (création d'un compte)
 - Visual studio (installation)
 - Emmet
+
+======
