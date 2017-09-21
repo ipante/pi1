@@ -3,7 +3,7 @@
 - [Espace Moodle](http://moodle.unil.ch/course/view.php?id=8995)
 - [Liste d'exercices]( https://gist.github.com/GregoryThonney)
 
-======
+***
 
 # Contenu des séances
 
@@ -37,4 +37,4 @@
 - Visual studio (installation)
 - Emmet
 
-======
+***
