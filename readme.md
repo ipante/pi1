@@ -76,6 +76,6 @@
 
 ***
 
-## Procédure
+## Procédure d'installation de plugins
 
 ![Installation de plugins sur Visual Studio Code](installer_package_VS_Code.gif)
