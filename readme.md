@@ -2,6 +2,7 @@
 
 - [Espace Moodle](http://moodle.unil.ch/course/view.php?id=8995)
 - [Liste d'exercices]( https://gist.github.com/GregoryThonney)
+- Lien vers cette page : http://bit.ly/matieres_pi1
 
 ***
 
