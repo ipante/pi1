@@ -9,6 +9,8 @@
 
 ## Séance 1
 
+[Série 1](https://gist.github.com/GregoryThonney/7639c4f1e2c211dd0af9500f93b41be2)
+
 ### Notions HTML
 
 - élément
@@ -38,3 +40,32 @@
 - Emmet
 
 ***
+
+## Séance 2
+
+[Série 2](https://gist.github.com/GregoryThonney/b5913313481bdda5a0f2aba4e4e46d64)
+
+### Notions HTML
+
+- commentaires
+- attribut Data
+- sensibilité à la casse
+- attributs id, class
+
+### Notions CSS
+
+- sélecteurs, propriétés, valeurs
+- pseudo-classes
+
+### Sélecteurs CSS
+
+- .nomClasse, #nomId
+- :link, :visited, :hover
+
+### Propriétés CSS
+
+- background-color, color
+- font-family, font-size
+- margin, padding
+- border, border-radius
+- transform, transition
