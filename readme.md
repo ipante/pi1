@@ -3,7 +3,7 @@
 - [Espace Moodle](http://moodle.unil.ch/course/view.php?id=8995)
 - [Liste d'exercices]( https://gist.github.com/GregoryThonney)
 - Lien vers cette page : http://bit.ly/matieres_pi1
-- ![Installation de plugins sur Visual Studio Code](installer_package_VS_Code.gif)
+- [Procédure d'installation des plugins](## Procédure)
 
 ***
 
@@ -73,3 +73,9 @@
 - margin, padding
 - border, border-radius
 - transform, transition
+
+***
+
+## Procédure
+
+![Installation de plugins sur Visual Studio Code](installer_package_VS_Code.gif)
