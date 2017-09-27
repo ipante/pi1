@@ -3,7 +3,7 @@
 - [Espace Moodle](http://moodle.unil.ch/course/view.php?id=8995)
 - [Liste d'exercices]( https://gist.github.com/GregoryThonney)
 - Lien vers cette page : http://bit.ly/matieres_pi1
-- [Procédure d'installation des plugins](##Procédure)
+- [Procédure d'installation des plugins](#Installation)
 
 ***
 
@@ -76,6 +76,6 @@
 
 ***
 
-## Procédure d'installation de plugins
+## Installation de plugins
 
 ![Installation de plugins sur Visual Studio Code](installer_package_VS_Code.gif)
