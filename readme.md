@@ -7,6 +7,11 @@
 
 ***
 
+# Listing des séances
+
+- [Séance 1](#séance-1)
+- [Séance 2](#séance-2)
+
 # Contenu des séances
 
 ## Séance 1
