@@ -51,6 +51,8 @@
 - attribut Data
 - sensibilité à la casse
 - attributs id, class
+- balise style (CSS interne)
+- balise link (CSS externe)
 
 ### Notions CSS
 
